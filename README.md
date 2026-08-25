@@ -20,6 +20,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Sushil-Sadhnani-17/DSA/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/Sushil-Sadhnani-17/DSA/tree/main/0009-palindrome-number/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
